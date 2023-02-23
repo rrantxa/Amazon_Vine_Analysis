@@ -17,7 +17,11 @@ The specific dataset that we analyzed related to products within the "Music" cat
 
 The *Music* dataset was one that had many more non-Vine reviews, compared to the Vine reviews. There where a total of **7** vine reviews, while the non-Vine reviews were **105,979**. Figures 1 and 2 show us the code that we used, as well as the output for each category. 
 
+![1](https://user-images.githubusercontent.com/113153777/221034311-401b759b-bcda-4086-b25d-4ee25b20dfb5.png)
+
 *Figure 1. Total vine reviews.*
+
+![2](https://user-images.githubusercontent.com/113153777/221034465-d2d1655c-3555-4d52-9a9f-5fd216dffe3d.png)
 
 *Figure 2. Total non-vine reviews.*
 
@@ -25,7 +29,11 @@ The *Music* dataset was one that had many more non-Vine reviews, compared to the
 
 Within the paid Vine category, we found that none of the reviews were 5 starts. When it came to the non-Vine category, we calculated a total of **67,580** 5-star reviews. 
 
+![3](https://user-images.githubusercontent.com/113153777/221034565-c68bc53e-6879-4308-adc8-f607189609de.png)
+
 *Figure 3. Vine 5-star reviews.*
+
+![4](https://user-images.githubusercontent.com/113153777/221034605-aa41d260-2f93-4906-88cb-f1aeb7ae9bc7.png)
 
 *Figure 4. Non-vine 5-star reviews*.
 
@@ -34,9 +42,13 @@ Within the paid Vine category, we found that none of the reviews were 5 starts. 
 
 When it came to the Vine reviews, we already knew that there would be a percentage of 0% for the 5-star reviews. However, we still calculated the percentage of reviews that belonged to other ratings. We found that **43%** of the reviews for this category were 3-star reviews, while the other **57%** belonged to 4-star reviews. 
 
+![5](https://user-images.githubusercontent.com/113153777/221034669-85a53f05-7040-47fa-8bc6-84a829ce6a04.png)
+
 *Figure 4. Paid Vine reviews distribution.*
 
 Regarding the non-Vine category, we found that **64%** of the total reviews were 5-star reviews (for the rest of the percentages, please look at *Figure 5*).
+
+![6](https://user-images.githubusercontent.com/113153777/221034709-b1c49027-20dd-4d17-b5e6-f0d6ee7c5cd5.png)
 
 *Figure 5. Non-Vine reviews distribution*
 
